@@ -1,0 +1,6 @@
+framework module ADSafeObjectFramework {
+  umbrella header "ADSafeObjectFramework.h"
+
+  export *
+  module * { export * }
+}
