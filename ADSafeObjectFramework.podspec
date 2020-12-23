@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ADSafeObjectFramework"
-  spec.version      = "0.0.1"
+  spec.version      = "v0.0.1"
   spec.summary      = "一个用于避免数组、字典和字符串数组奔溃的SDK。希望对您的项目有所帮助。"
 
   # This description is used to generate tags and improve search results.
@@ -138,7 +138,5 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'ADSafeObjectFramework.framework'
 
   spec.frameworks = 'UIKit','Foundation'
-  
-  spec.dependency 'AFNetworking'
 
 end
