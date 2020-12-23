@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   私有Pods测试
                    DESC
 
-  spec.homepage     = "https://github.com/nanshanqu/ADSafeObjectFramework.git"
+  spec.homepage     = "https://github.com/nanshanqu/ADSafeObjectFramework"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
